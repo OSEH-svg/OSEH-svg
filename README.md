@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OSEH-svg
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me divineosehotue@gmail.com
 
