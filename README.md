@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OSEH-svg
+- 👋 Hi, I’m Divine Osehotue Omoiyobe 
 - 👀 I’m interested in frontend development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me divineosehotue@gmail.com
