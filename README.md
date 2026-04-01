@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Divine Osehotue Omoiyobe 
-- 👀 I’m interested in frontend development
+- 👋 Hi, I’m Oseh
+- 👀 I’m interested in software development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me divineosehotue@gmail.com
 
